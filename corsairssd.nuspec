@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+	<id>corsairssd</id>
+	<version>1.2.6.1</version>
+    <title>Corsair SSD Toolbox</title>
+    <authors>Corsair Components Inc. (CORSAIR)</authors>
+	<owners>Juskevich</owners>
+	<iconUrl>https://www.corsair.com/corsairmedia/sys_master/productcontent/drivers_CORSAIR-SSD-TOOLBOX.jpg</iconUrl>
+	<projectUrl>https://www.corsair.com/eu/en/blog/the-corsair-ssd-toolbox</projectUrl>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<copyright>Copyright 2021 LC Technology International</copyright>
+	<tags>corsair ssd manager corsair-ssd ssd-toolbox</tags>
+    <summary>Corsair SSD Toolbox is used to manage Corsair solid state drives. </summary>
+    <description>Corsair SSD Toolbox is used to manage Corsair solid state drives. </description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
